@@ -134,7 +134,7 @@ int payment() {
 
 int receipt() {
     printf("\n\n_______________\n");
-    printf("\t  DESERT TRAIL\n");
+    printf("\t\t DESERT TRAIL\n");
     printf("Customer name: %s\n",user.name);
     printf("Mobile no: %s\n",user.mob);
     printf("Quantity purchased: %d\n",quantity);
